@@ -1,0 +1,8 @@
+{
+  "name": "Subway Surfers: City Rush",
+  "description": "An interactive, highly realistic 3D infinite railway runner themed on Subway Surfers, built with React Three Fiber, utilizing custom train and railway carriage GLB models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
